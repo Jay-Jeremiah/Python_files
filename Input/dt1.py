@@ -1,6 +1,6 @@
-A = int(input("Enter number A: "))
+A = float(input("Enter number A: "))
 
-B = int(input("Enter number B: "))
+B = float(input("Enter number B: "))
 
 Sum = A + B
 
